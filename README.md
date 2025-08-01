@@ -35,12 +35,4 @@ Es una aplicación Android desarrollada con Jetpack Compose, la cual muestra una
 
 5. Presionar el botón ▶️ ("Run") para compilar y ejecutar la app.
 
----
-
-### Recomendación para usar un dispositivo físico
-
-- Habilitar las Opciones de desarrollador en el celular.  
-- Activar Depuración por USB.  
-- Asegurarse de aceptar el permiso de conexión al conectar el teléfono al PC.
-
 
